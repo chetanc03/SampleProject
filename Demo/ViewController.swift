@@ -34,6 +34,7 @@ class ViewController: UIViewController {
         
         print("ABCD")
            print("ABCD")
+        print("Changes applied")
         
            print("ABCD")
 //        constStr = "Constant"
