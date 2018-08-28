@@ -32,6 +32,8 @@ class ViewController: UIViewController {
         
 //        print(str)
         
+        print("ABCD")
+        
 //        constStr = "Constant"
         
         print(name.name)
@@ -95,7 +97,7 @@ class ViewController: UIViewController {
         let queue = OperationQueue()
     
         for i in 1..<1000 {
-            queue.addOperation(op(n: "Chetan \(i)"))
+//            queue.addOperation(op(n: "Chetan \(i)"))
         }
         
         // Access specifier
@@ -124,22 +126,22 @@ class ViewController: UIViewController {
     
 }
 
-class op: Operation {
-
-    var vname : String
-    
-    init(n: String) {
-        vname = n
-    }
-    
-    var testv : test
-    testv.
-    
-    override func main() {
-//        print("Thread main done")
-    }
-    
-}
+//class op: Operation {
+//
+//    var vname : String
+//
+//    init(n: String) {
+//        vname = n
+//    }
+//
+//    var testv : test
+//
+//
+//    override func main() {
+////        print("Thread main done")
+//    }
+//
+//}
 
 struct test {
     
