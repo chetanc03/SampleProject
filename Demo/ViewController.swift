@@ -33,7 +33,7 @@ class ViewController: UIViewController {
         
         print("ABCD")
         
-        print("Checkout Master Branch")
+        print("Checkout")
 
         print(name.name)
         print(constStr)
