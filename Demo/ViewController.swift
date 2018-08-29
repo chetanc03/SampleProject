@@ -29,12 +29,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
-        
-        print("ABCD")
-        
-        print("Checkout")
 
+
+        
         print(name.name)
         print(constStr)
         
