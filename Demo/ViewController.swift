@@ -30,15 +30,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-//        print(str)
         
         print("ABCD")
-           print("ABCD")
-        print("Changes applied")
-        
-           print("ABCD")
-//        constStr = "Constant"
-        
+
         print(name.name)
         print(constStr)
         
