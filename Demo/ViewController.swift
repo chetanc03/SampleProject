@@ -30,6 +30,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
+        
+        
         print("Check out Git")
         print("now shift on New feature branch")
         print("ABCD")
@@ -40,6 +42,11 @@ class ViewController: UIViewController {
         print(name.name)
         print(constStr)
         
+        
+        print("1st")
+        print("2nd")
+        print("3rd")
+        
         str = "ABCD"
         
         if str != nil {
@@ -48,7 +55,9 @@ class ViewController: UIViewController {
             print("Dont have value")
         }
         
-        
+        print("1st")
+        print("2st")
+        print("3st")
 //        optional binding
         
         if let constantvar = str {
