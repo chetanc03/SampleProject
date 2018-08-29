@@ -30,6 +30,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
+        
+        
         print("Check out Git")
         print("now shift on New feature branch")
         print("ABCD")
@@ -39,6 +41,11 @@ class ViewController: UIViewController {
         
         print(name.name)
         print(constStr)
+        
+        
+        print("1st")
+        print("2nd")
+        print("3rd")
         
         str = "ABCD"
         
